@@ -1,0 +1,60 @@
+* {
+  box-sizing: border-box;
+}
+
+.row {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.column {
+	margin-right: 100px;
+}
+
+body {
+	 margin-left: 200px;
+	 margin-right: 200px;
+	 margin-bottom: 100px;
+	 margin-top: 70px;
+	 background-color: gainsboro;
+}
+
+h1 {
+     font-size: 50px;
+     color: blue;
+     text-align: center;
+ 
+}
+
+h3 {
+	 font-size: 40px;
+	 color: black;
+}
+
+img {
+	 width: 400px;
+	 border-radius: 10px;
+	 border: 10px solid whitesmoke;
+}
+
+
+
+
+ul {
+	font-size: 30px;
+}
+
+
+ol {
+	font-size: 30px;
+}
+
+a {
+	font-size: 25px;
+}
+
+
+
+
+
+
