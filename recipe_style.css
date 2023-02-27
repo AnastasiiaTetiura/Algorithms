@@ -9,26 +9,46 @@
 
 .column {
 	margin-right: 100px;
+
 }
+
+
+#background {
+	background-image: url("./img/cooking.png");
+	color: #FFFFFF;
+	padding: 20px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	font-family: serif;
+}
+
+
+#steps {
+	color: #FFFFFF;
+}
+
 
 body {
 	 margin-left: 200px;
 	 margin-right: 200px;
 	 margin-bottom: 100px;
 	 margin-top: 70px;
-	 background-color: gainsboro;
+	 background-color: #CAC065;
+	 font-family: fantasy;
 }
+
 
 h1 {
      font-size: 50px;
-     color: blue;
      text-align: center;
+     color: #1B2225;
  
 }
 
+
 h3 {
 	 font-size: 40px;
-	 color: black;
+	 color: #1B2225;
 }
 
 img {
@@ -42,6 +62,7 @@ img {
 
 ul {
 	font-size: 30px;
+	color: #1B2225;
 }
 
 
@@ -50,7 +71,8 @@ ol {
 }
 
 a {
-	font-size: 25px;
+	font-size: 30px;
+	color: #1B2225;
 }
 
 
